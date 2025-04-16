@@ -8,7 +8,7 @@
 - 🎓 B.Tech IT student at **St. Joseph's Institute of Technology, Chennai**  
 - 💡 Passionate about building real-world tech solutions that create impact  
 - 🌱 Currently exploring **Full Stack Web Development** and **Data Structures & Algorithms**  
-- 🧠 Consistent problem solver on platforms like [LeetCode](https://leetcode.com/san_dev_001/)  
+- 🧠 Consistent problem solver on platforms like [LeetCode](https://leetcode.com/sanjay_dev_001/)  
 - 🧑‍🔬 Worked on AI projects like **SmartAgriFarm** and **ID Card Generator**  
 - 📫 Reach me at: **josephstudent001@gmail.com**
 
