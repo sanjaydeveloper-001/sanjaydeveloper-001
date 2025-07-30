@@ -1,5 +1,10 @@
 <h1 align="center">Hey 👋, I'm Sanjay</h1>
 <h3 align="center">Frontend Developer | Problem Solver | Engineering Student</h3>
+<p align="center">
+  <a href="linkedin.com/in/josanweb" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;See My Workd" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -66,3 +71,6 @@
 ---
 
 _Thanks for visiting my profile! If you like my work, feel free to ⭐️ a project or connect with me. Let's build something amazing together!_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subashini123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
