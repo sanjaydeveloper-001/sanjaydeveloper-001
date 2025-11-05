@@ -1,8 +1,11 @@
 <h1 align="center">Hey 👋, I'm Sanjay</h1>
 <h3 align="center">Frontend Developer | Problem Solver | Engineering Student</h3>
 <p align="center">
-  <a href="linkedin.com/in/josanweb" target="_blank">
-    <i src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;See My Workd" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/josanweb" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;See+My+Work" 
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
