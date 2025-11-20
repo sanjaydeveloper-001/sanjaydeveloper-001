@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Sanjay [🌐](https://port-sanjay.vercel.app/)</h1>
+<h1 align="center">Hey 👋, I'm Sanjay <a href="https://port-sanjay.vercel.app">🌐</a></h1>
 <h3 align="center">Frontend Developer | Problem Solver | Engineering Student</h3>
 
 <p align="center">
