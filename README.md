@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sanjay <a href="https://port-sanjay.vercel.app">🌐</a></h1>
-<h3 align="center">Frontend Developer | Problem Solver | Engineering Student</h3>
+<h3 align="center">MERN Developer | Problem Solver | Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josanweb" target="_blank">
