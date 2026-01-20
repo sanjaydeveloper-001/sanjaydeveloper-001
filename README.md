@@ -1,158 +1,178 @@
-<h1 align="center">Hey 👋, I'm Sanjay <a href="https://port-sanjay.vercel.app">🌐</a></h1>
-<h3 align="center">MERN Developer | Problem Solver | Engineering Student</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C6FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Sanjay+Duraimohan;MERN+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josanweb" target="_blank">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;MERN+Developer+%7C+Frontend+Specialist;Tech+Learner+%26+Problem+Solver;Building+Real-World+Projects+Daily!;Let's+Build+Something+Amazing+Together+🚀" 
-      alt="Typing SVG"
-    />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Passionate%20about%20Clean%20Code%20%26%20Innovation&descSize=16&descAlignY=70" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjay-duraimohan-14bb0b295"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:josephofficial.sanjay@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/sanjay_dev_001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://port-sanjay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sanjaydeveloper-001&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+```javascript
+const sanjay = {
+    location: "Chennai, Tamil Nadu, India",
+    education: "B.Tech Information Technology | St. Joseph's Institute of Technology",
+    currentFocus: ["MERN Stack Development", "DSA & Problem Solving", "Cloud Technologies"],
+    interests: ["Web Development", "AI Integration", "IoT Solutions"],
+    funFact: "I turn coffee into code ☕ → 💻",
+    openTo: "Collaborations in Full Stack Projects, Open Source & Hackathons"
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🚀 What I Do
+
+- 🎯 Build responsive, user-friendly web applications using **MERN Stack**
+- 🧩 Solve algorithmic challenges on **LeetCode** to sharpen problem-solving skills
+- ⚡ Integrate modern authentication systems (**JWT, OAuth, Firebase**)
+- 🌐 Deploy scalable applications on **Vercel, Netlify, and Cloud platforms**
+- 📚 Continuously learning **System Design, Advanced React Patterns & Backend Optimization**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,firebase,supabase,mongodb,git,github,postman,vscode&perline=7&theme=dark" alt="Tech Stack"/>
+</p>
+
+<details>
+<summary>📦 <b>More Technologies</b></summary>
+<br>
+
+**Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS, Responsive Design  
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+**Database:** MongoDB, Supabase, Firebase Firestore  
+**Tools & Others:** Git, GitHub, Postman, Figma, VS Code, npm  
+**Currently Exploring:** Next.js, TypeScript, Docker, AWS
+
+</details>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 [MovieHub](https://github.com/sanjaydeveloper-001/The-Movie-Hub)
+
+**Movie Discovery Platform with Authentication**
+
+- 🔐 Google OAuth & JWT authentication
+- 🎥 Real-time movie data via TMDb API
+- 📺 Trailer previews & trending lists
+- 🎨 Modern UI with TailwindCSS
+
+**Stack:** React • Firebase Auth • JWT • TailwindCSS
+
+</td>
+<td width="50%">
+
+### 🆔 [College ID Card Generator](https://github.com/sanjaydeveloper-001/ID-Card-Generator-Free)
+
+**Dynamic ID Generation System**
+
+- 🏫 Auto-fetch college logos (SerpAPI)
+- 👤 User authentication & profiles
+- 📸 Photo upload & preview system
+- 🗑️ Trash & restore functionality
+
+**Stack:** React • Node.js • Express • Supabase • JWT
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/sanjaydeveloper-001?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-0072FF?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header&text=🚀%20Sanjay%20-%20Developer%20Journey&fontSize=28&fontColor=ffffff&animation=twinkling" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjaydeveloper-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaydeveloper-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjaydeveloper-001&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjaydeveloper-001&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech Information Technology student at **St. Joseph's Institute of Technology, Chennai**  
-- 💡 Passionate about **Web Development, Cloud, and AI-driven solutions**  
-- 🚀 Love building **real-world projects** that blend design, logic, and technology  
-- 🌱 Currently diving deep into **MERN Stack** and **Data Structures & Algorithms**  
-- 🧠 Active problem solver on [LeetCode](https://leetcode.com/sanjay_dev_001/)  
-- 💬 Open to collaborations in **Web Development, AI, or IoT-based projects**  
-- 📫 Reach me at: **josephofficial.sanjay@gmail.com**
-
----
-
-## ⚡ Animated Contributions (Pacman Mode)
+## 💡 LeetCode Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjaydeveloper-001/sanjaydeveloper-001/output/pacman.svg" alt="pacman contribution graph" />
+  <img src="https://leetcard.jacoblin.cool/Sanjay_dev_001?theme=nord&font=Sen&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
 
-## 🧠 Featured Projects
-
-### 🪪 **College ID Card Generator**
-> Dynamic ID generator with college logo auto-fetching via SerpAPI and authentication.  
-- Created using **React + Node + Express**
-- Includes features like **user login**, **profile photo upload**, **ID preview**, and **trash restore system**
-- **Tech:** React, Node, Supabase, JWT Auth  
-🔗 [View Repository](https://github.com/sanjaydeveloper-001/ID-Card-Generator-Free)
-
----
-
-### 🎥 **MovieHub**
-> Movie discovery app integrated with **Google Auth** and **JWT** authentication.  
-- Displays trending and popular movies with trailer previews  
-- Used **TMDb API** for live movie data  
-- **Tech:** React, Firebase Auth, JWT, TailwindCSS  
-🔗 [View Repository](https://github.com/sanjaydeveloper-001/The-Movie-Hub)
-
----
-
-## 💻 Tech Stack
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,firebase,supabase,git,github,postman,figma,vscode&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaydeveloper-001&bg_color=0D1117&color=00C6FF&line=0072FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🧩 Currently Learning
-
-- 🧠 Advanced JavaScript (ES6+, Closures, Event Loop)  
-- ⚛️ React.js – Hooks, Context API, Performance Optimization  
-- ☁️ Backend Authentication with JWT & OAuth  
-- 🌍 REST APIs, Cloud Hosting, and Integration  
-- 💡 Dynamic Programming & Algorithms on LeetCode  
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sanjay_dev_001?theme=dark&font=Sen&ext=heatmap" />
-</p>
+## 🎯 Current Goals for 2025
+```yaml
+⚡ Complete 300+ LeetCode problems
+🚀 Master Next.js and TypeScript
+☁️ Learn AWS & Cloud Deployment
+🤝 Contribute to 5+ Open Source projects
+📱 Build a full-stack SaaS application
+```
 
 ---
 
-## 📈 GitHub Stats (Premium Themes)
+## 💬 Let's Connect & Collaborate!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaydeveloper-001&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=sanjaydeveloper-001&theme=tokyonight&hide_border=false" width="49%" />
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaydeveloper-001&show_icons=true&theme=radical" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=sanjaydeveloper-001&theme=radical&hide_border=false" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaydeveloper-001&show_icons=true&theme=github_dark" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=sanjaydeveloper-001&theme=github-dark&hide_border=false" width="49%" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaydeveloper-001&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies (Impressive)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjaydeveloper-001&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌍 Profile Metrics (Super Pro Look)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaydeveloper-001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaydeveloper-001&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
----
-
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-duraimohan-14bb0b295">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:josephstudent001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/sanjay_dev_001/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="mailto:josephofficial.sanjay@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://port-sanjay.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjaydeveloper-001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072FF,100:00C6FF&height=120&section=footer&reversal=false" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=110&section=footer&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+like+my+work!;Open+to+collaborations+and+exciting+opportunities!;Let's+build+something+amazing+together!+🚀" alt="Footer Typing"/>
 </p>
-
-✨ _Thanks for visiting my profile! If you like my work, feel free to ⭐️ a project or connect with me. Let's build something amazing together!_
