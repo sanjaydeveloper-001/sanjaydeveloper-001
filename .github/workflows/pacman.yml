@@ -1,5 +1,8 @@
 name: GitHub Pac-Man
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 0 * * *"
