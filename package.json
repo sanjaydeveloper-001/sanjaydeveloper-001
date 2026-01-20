@@ -1,1 +1,12 @@
 
+{
+  "name": "github-pacman",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-pacman.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
