@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C6FF&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Sanjay+Duraimohan;MERN+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,100:0072FF&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Passionate%20about%20Clean%20Code%20%26%20Innovation&descSize=16&descAlignY=70" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josanweb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:josephofficial.sanjay@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/sanjaydeveloper-001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://port-sanjay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://josan.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=sanjaydeveloper-001&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -107,25 +107,25 @@ const sanjay = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjaydeveloper-001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaydeveloper-001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjaydeveloper-001&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjaydeveloper-001&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</p>
+</p> -->
 
 ---
 
 ## 💡 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sanjay_dev_001?theme=nord&font=Sen&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Sanjaydeveloper-001?theme=nord&font=Sen&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ---
@@ -140,7 +140,7 @@ const sanjay = {
 
 ## 🎯 Current Goals for 2025
 ```yaml
-⚡ Complete 300+ LeetCode problems
+⚡ Complete 550+ LeetCode problems
 🚀 Master Next.js and TypeScript
 ☁️ Learn AWS & Cloud Deployment
 🤝 Contribute to 5+ Open Source projects
@@ -156,13 +156,13 @@ const sanjay = {
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-duraimohan-14bb0b295">
+  <a href="https://www.linkedin.com/in/josanweb">
     <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:josephofficial.sanjay@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://port-sanjay.vercel.app">
+  <a href="https://josan.tech">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
