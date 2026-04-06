@@ -173,6 +173,6 @@ const sanjay = {
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072FF,100:00C6FF&height=120&section=footer&reversal=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+like+my+work!;Open+to+collaborations+and+exciting+opportunities!;Let's+build+something+amazing+together!+🚀" alt="Footer Typing"/>
-</p>
+</p> -->
