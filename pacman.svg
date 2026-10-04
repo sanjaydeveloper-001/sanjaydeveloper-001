@@ -25,29 +25,29 @@
 <circle id="d7" cx="34" cy="20" r="3" fill="#39d353" opacity="1"/>
 <circle id="d8" cx="34" cy="34" r="3" fill="#39d353" opacity="1"/>
 <circle id="d9" cx="34" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d10" cx="34" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d11" cx="34" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d12" cx="34" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d13" cx="34" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d14" cx="48" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d15" cx="48" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d16" cx="48" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d17" cx="48" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d18" cx="48" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d19" cx="48" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d20" cx="62" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d21" cx="62" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d10" cx="34" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d11" cx="34" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d12" cx="34" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d13" cx="48" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d14" cx="48" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d15" cx="48" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d16" cx="48" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d17" cx="62" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d18" cx="62" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d19" cx="62" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d20" cx="62" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d21" cx="62" cy="76" r="3" fill="#39d353" opacity="1"/>
 <circle id="d22" cx="62" cy="90" r="3" fill="#39d353" opacity="1"/>
 <circle id="d23" cx="62" cy="104" r="3" fill="#39d353" opacity="1"/>
 <circle id="d24" cx="76" cy="20" r="3" fill="#39d353" opacity="1"/>
 <circle id="d25" cx="76" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d26" cx="76" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d27" cx="76" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d28" cx="76" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d29" cx="76" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d30" cx="76" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d31" cx="90" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d32" cx="90" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d26" cx="76" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d27" cx="76" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d28" cx="76" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d29" cx="76" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d30" cx="90" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d31" cx="90" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d32" cx="90" cy="48" r="3" fill="#39d353" opacity="1"/>
 <circle id="d33" cx="90" cy="62" r="3" fill="#39d353" opacity="1"/>
 <circle id="d34" cx="90" cy="76" r="3" fill="#39d353" opacity="1"/>
 <circle id="d35" cx="90" cy="90" r="3" fill="#39d353" opacity="1"/>
@@ -58,16 +58,16 @@
 <circle id="d40" cx="104" cy="62" r="3" fill="#39d353" opacity="1"/>
 <circle id="d41" cx="104" cy="76" r="3" fill="#39d353" opacity="1"/>
 <circle id="d42" cx="104" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d43" cx="104" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d44" cx="118" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d45" cx="118" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d46" cx="118" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d47" cx="118" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d48" cx="118" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d49" cx="118" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d50" cx="132" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d51" cx="132" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d52" cx="132" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d43" cx="118" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d44" cx="118" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d45" cx="118" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d46" cx="118" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d47" cx="118" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d48" cx="118" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d49" cx="132" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d50" cx="132" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d51" cx="132" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d52" cx="132" cy="62" r="3" fill="#39d353" opacity="1"/>
 <circle id="d53" cx="132" cy="76" r="3" fill="#39d353" opacity="1"/>
 <circle id="d54" cx="132" cy="90" r="3" fill="#39d353" opacity="1"/>
 <circle id="d55" cx="132" cy="104" r="3" fill="#39d353" opacity="1"/>
@@ -76,28 +76,28 @@
 <circle id="d58" cx="146" cy="48" r="3" fill="#39d353" opacity="1"/>
 <circle id="d59" cx="146" cy="62" r="3" fill="#39d353" opacity="1"/>
 <circle id="d60" cx="146" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d61" cx="146" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d62" cx="146" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d63" cx="160" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d64" cx="160" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d65" cx="160" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d66" cx="160" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d67" cx="160" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d68" cx="160" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d69" cx="174" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d70" cx="174" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d71" cx="174" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d72" cx="174" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d73" cx="174" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d74" cx="188" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d75" cx="188" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d76" cx="188" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d77" cx="188" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d78" cx="188" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d79" cx="202" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d80" cx="202" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d81" cx="202" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d82" cx="202" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d61" cx="146" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d62" cx="160" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d63" cx="160" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d64" cx="160" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d65" cx="160" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d66" cx="160" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d67" cx="174" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d68" cx="174" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d69" cx="174" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d70" cx="174" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d71" cx="174" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d72" cx="188" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d73" cx="188" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d74" cx="188" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d75" cx="188" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d76" cx="202" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d77" cx="202" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d78" cx="202" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d79" cx="202" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d80" cx="202" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d81" cx="202" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d82" cx="202" cy="104" r="3" fill="#39d353" opacity="1"/>
 <circle id="d83" cx="216" cy="20" r="3" fill="#39d353" opacity="1"/>
 <circle id="d84" cx="216" cy="34" r="3" fill="#39d353" opacity="1"/>
 <circle id="d85" cx="216" cy="48" r="3" fill="#39d353" opacity="1"/>
@@ -105,1046 +105,1004 @@
 <circle id="d87" cx="216" cy="76" r="3" fill="#39d353" opacity="1"/>
 <circle id="d88" cx="216" cy="90" r="3" fill="#39d353" opacity="1"/>
 <circle id="d89" cx="216" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d90" cx="230" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d91" cx="230" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d92" cx="230" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d93" cx="230" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d94" cx="230" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d95" cx="230" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d96" cx="230" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d97" cx="244" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d98" cx="244" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d99" cx="244" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d100" cx="244" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d101" cx="244" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d102" cx="258" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d103" cx="258" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d104" cx="258" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d105" cx="258" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d90" cx="230" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d91" cx="230" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d92" cx="230" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d93" cx="230" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d94" cx="230" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d95" cx="244" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d96" cx="244" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d97" cx="244" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d98" cx="244" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d99" cx="244" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d100" cx="258" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d101" cx="258" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d102" cx="258" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d103" cx="258" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d104" cx="258" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d105" cx="258" cy="90" r="3" fill="#39d353" opacity="1"/>
 <circle id="d106" cx="258" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d107" cx="272" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d108" cx="272" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d109" cx="272" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d110" cx="272" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d111" cx="272" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d112" cx="272" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d113" cx="272" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d114" cx="286" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d115" cx="286" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d116" cx="286" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d117" cx="286" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d118" cx="286" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d119" cx="300" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d120" cx="314" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d121" cx="314" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d122" cx="328" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d123" cx="328" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d107" cx="272" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d108" cx="272" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d109" cx="272" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d110" cx="272" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d111" cx="272" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d112" cx="286" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d113" cx="300" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d114" cx="300" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d115" cx="314" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d116" cx="314" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d117" cx="314" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d118" cx="314" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d119" cx="314" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d120" cx="314" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d121" cx="328" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d122" cx="328" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d123" cx="328" cy="48" r="3" fill="#39d353" opacity="1"/>
 <circle id="d124" cx="328" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d125" cx="328" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d126" cx="328" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d127" cx="328" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d128" cx="342" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d129" cx="342" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d130" cx="342" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d131" cx="342" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d132" cx="342" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d133" cx="356" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d134" cx="356" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d135" cx="356" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d136" cx="356" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d137" cx="356" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d125" cx="328" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d126" cx="342" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d127" cx="342" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d128" cx="342" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d129" cx="342" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d130" cx="342" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d131" cx="356" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d132" cx="356" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d133" cx="356" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d134" cx="356" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d135" cx="356" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d136" cx="356" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d137" cx="356" cy="104" r="3" fill="#39d353" opacity="1"/>
 <circle id="d138" cx="370" cy="20" r="3" fill="#39d353" opacity="1"/>
 <circle id="d139" cx="370" cy="34" r="3" fill="#39d353" opacity="1"/>
 <circle id="d140" cx="370" cy="48" r="3" fill="#39d353" opacity="1"/>
 <circle id="d141" cx="370" cy="62" r="3" fill="#39d353" opacity="1"/>
 <circle id="d142" cx="370" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d143" cx="370" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d144" cx="370" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d145" cx="384" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d146" cx="384" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d147" cx="384" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d148" cx="384" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d149" cx="384" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d150" cx="398" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d151" cx="398" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d152" cx="398" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d153" cx="398" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d154" cx="398" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d155" cx="412" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d156" cx="412" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d157" cx="412" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d158" cx="412" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d159" cx="426" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d160" cx="426" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d161" cx="426" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d162" cx="440" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d163" cx="440" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d164" cx="454" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d165" cx="454" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d166" cx="482" cy="90" r="3" fill="#39d353" opacity="1"/>
-<circle id="d167" cx="496" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d168" cx="552" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d169" cx="580" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d170" cx="594" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d171" cx="608" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d172" cx="608" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d173" cx="608" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d174" cx="608" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d175" cx="622" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d176" cx="622" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d177" cx="622" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d178" cx="622" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d179" cx="622" cy="104" r="3" fill="#39d353" opacity="1"/>
-<circle id="d180" cx="636" cy="48" r="3" fill="#39d353" opacity="1"/>
-<circle id="d181" cx="650" cy="34" r="3" fill="#39d353" opacity="1"/>
-<circle id="d182" cx="650" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d183" cx="664" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d184" cx="664" cy="62" r="3" fill="#39d353" opacity="1"/>
-<circle id="d185" cx="692" cy="20" r="3" fill="#39d353" opacity="1"/>
-<circle id="d186" cx="692" cy="76" r="3" fill="#39d353" opacity="1"/>
-<circle id="d187" cx="734" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d143" cx="384" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d144" cx="384" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d145" cx="384" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d146" cx="384" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d147" cx="384" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d148" cx="398" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d149" cx="398" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d150" cx="398" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d151" cx="398" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d152" cx="412" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d153" cx="412" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d154" cx="412" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d155" cx="426" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d156" cx="426" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d157" cx="440" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d158" cx="440" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d159" cx="468" cy="90" r="3" fill="#39d353" opacity="1"/>
+<circle id="d160" cx="482" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d161" cx="538" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d162" cx="566" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d163" cx="580" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d164" cx="594" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d165" cx="594" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d166" cx="594" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d167" cx="594" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d168" cx="608" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d169" cx="608" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d170" cx="608" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d171" cx="608" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d172" cx="608" cy="104" r="3" fill="#39d353" opacity="1"/>
+<circle id="d173" cx="622" cy="48" r="3" fill="#39d353" opacity="1"/>
+<circle id="d174" cx="636" cy="34" r="3" fill="#39d353" opacity="1"/>
+<circle id="d175" cx="636" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d176" cx="650" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d177" cx="650" cy="62" r="3" fill="#39d353" opacity="1"/>
+<circle id="d178" cx="678" cy="20" r="3" fill="#39d353" opacity="1"/>
+<circle id="d179" cx="678" cy="76" r="3" fill="#39d353" opacity="1"/>
+<circle id="d180" cx="720" cy="76" r="3" fill="#39d353" opacity="1"/>
   </g>
 
   <!-- Make dots disappear as Pac-Man reaches them -->
   <g>
     
   <animate xlink:href="#d0" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
+    dur="39.82s" repeatCount="indefinite"
     keyTimes="0;0.000000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d1" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.005348;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.005556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d2" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.010695;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.011111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d3" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.016043;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.016667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d4" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.021390;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.022222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d5" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.026738;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.027778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d6" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.032086;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.033333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d7" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.037433;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.038889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d8" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.042781;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.044444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d9" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.048128;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.050000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d10" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.053476;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.055556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d11" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.058824;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.061111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d12" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.064171;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.066667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d13" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.069519;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.072222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d14" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.074866;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.077778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d15" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.080214;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.083333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d16" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.085561;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.088889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d17" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.090909;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.094444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d18" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.096257;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.100000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d19" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.101604;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.105556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d20" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.106952;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.111111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d21" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.112299;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.116667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d22" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.117647;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.122222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d23" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.122995;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.127778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d24" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.128342;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.133333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d25" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.133690;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.138889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d26" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.139037;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.144444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d27" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.144385;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.150000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d28" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.149733;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.155556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d29" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.155080;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.161111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d30" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.160428;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.166667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d31" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.165775;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.172222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d32" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.171123;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.177778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d33" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.176471;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.183333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d34" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.181818;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.188889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d35" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.187166;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.194444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d36" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.192513;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.200000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d37" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.197861;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.205556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d38" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.203209;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.211111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d39" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.208556;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.216667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d40" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.213904;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.222222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d41" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.219251;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.227778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d42" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.224599;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.233333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d43" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.229947;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.238889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d44" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.235294;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.244444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d45" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.240642;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.250000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d46" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.245989;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.255556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d47" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.251337;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.261111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d48" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.256684;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.266667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d49" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.262032;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.272222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d50" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.267380;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.277778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d51" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.272727;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.283333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d52" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.278075;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.288889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d53" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.283422;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.294444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d54" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.288770;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.300000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d55" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.294118;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.305556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d56" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.299465;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.311111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d57" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.304813;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.316667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d58" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.310160;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.322222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d59" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.315508;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.327778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d60" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.320856;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.333333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d61" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.326203;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.338889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d62" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.331551;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.344444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d63" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.336898;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.350000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d64" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.342246;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.355556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d65" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.347594;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.361111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d66" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.352941;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.366667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d67" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.358289;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.372222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d68" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.363636;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.377778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d69" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.368984;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.383333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d70" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.374332;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.388889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d71" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.379679;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.394444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d72" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.385027;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.400000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d73" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.390374;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.405556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d74" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.395722;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.411111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d75" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.401070;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.416667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d76" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.406417;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.422222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d77" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.411765;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.427778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d78" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.417112;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.433333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d79" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.422460;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.438889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d80" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.427807;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.444444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d81" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.433155;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.450000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d82" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.438503;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.455556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d83" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.443850;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.461111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d84" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.449198;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.466667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d85" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.454545;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.472222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d86" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.459893;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.477778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d87" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.465241;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.483333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d88" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.470588;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.488889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d89" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.475936;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.494444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d90" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.481283;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.500000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d91" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.486631;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.505556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d92" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.491979;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.511111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d93" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.497326;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.516667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d94" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.502674;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.522222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d95" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.508021;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.527778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d96" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.513369;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.533333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d97" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.518717;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.538889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d98" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.524064;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.544444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d99" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.529412;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.550000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d100" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.534759;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.555556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d101" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.540107;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.561111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d102" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.545455;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.566667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d103" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.550802;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.572222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d104" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.556150;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.577778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d105" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.561497;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.583333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d106" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.566845;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.588889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d107" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.572193;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.594444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d108" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.577540;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.600000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d109" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.582888;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.605556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d110" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.588235;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.611111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d111" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.593583;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.616667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d112" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.598930;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.622222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d113" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.604278;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.627778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d114" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.609626;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.633333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d115" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.614973;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.638889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d116" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.620321;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.644444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d117" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.625668;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.650000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d118" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.631016;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.655556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d119" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.636364;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.661111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d120" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.641711;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.666667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d121" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.647059;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.672222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d122" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.652406;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.677778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d123" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.657754;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.683333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d124" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.663102;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.688889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d125" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.668449;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.694444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d126" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.673797;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.700000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d127" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.679144;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.705556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d128" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.684492;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.711111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d129" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.689840;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.716667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d130" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.695187;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.722222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d131" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.700535;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.727778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d132" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.705882;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.733333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d133" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.711230;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.738889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d134" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.716578;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.744444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d135" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.721925;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.750000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d136" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.727273;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.755556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d137" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.732620;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.761111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d138" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.737968;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.766667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d139" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.743316;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.772222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d140" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.748663;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.777778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d141" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.754011;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.783333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d142" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.759358;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.788889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d143" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.764706;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.794444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d144" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.770053;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.800000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d145" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.775401;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.805556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d146" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.780749;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.811111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d147" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.786096;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.816667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d148" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.791444;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.822222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d149" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.796791;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.827778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d150" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.802139;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.833333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d151" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.807487;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.838889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d152" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.812834;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.844444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d153" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.818182;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.850000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d154" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.823529;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.855556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d155" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.828877;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.861111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d156" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.834225;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.866667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d157" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.839572;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.872222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d158" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.844920;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.877778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d159" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.850267;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.883333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d160" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.855615;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.888889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d161" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.860963;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.894444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d162" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.866310;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.900000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d163" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.871658;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.905556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d164" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.877005;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.911111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d165" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.882353;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.916667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d166" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.887701;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.922222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d167" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.893048;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.927778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d168" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.898396;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.933333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d169" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.903743;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.938889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d170" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.909091;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.944444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d171" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.914439;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.950000;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d172" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.919786;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.955556;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d173" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.925134;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.961111;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d174" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.930481;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.966667;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d175" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.935829;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.972222;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d176" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.941176;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.977778;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d177" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.946524;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.983333;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d178" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.951872;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.988889;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d179" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.957219;1"
+    dur="39.82s" repeatCount="indefinite"
+    keyTimes="0;0.994444;1"
     values="1;0;0" fill="freeze" />
 
   <animate xlink:href="#d180" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.962567;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d181" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.967914;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d182" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.973262;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d183" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.978610;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d184" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.983957;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d185" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.989305;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d186" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
-    keyTimes="0;0.994652;1"
-    values="1;0;0" fill="freeze" />
-
-  <animate xlink:href="#d187" attributeName="opacity"
-    dur="41.36s" repeatCount="indefinite"
+    dur="39.82s" repeatCount="indefinite"
     keyTimes="0;1.000000;1"
     values="1;0;0" fill="freeze" />
   </g>
@@ -1153,15 +1111,15 @@
   <g filter="url(#glow)">
     <!-- Body -->
     <circle r="7" fill="#f6d32d">
-      <animateMotion dur="41.36s" repeatCount="indefinite" rotate="auto"
-        path="M 20 20 L 20 34 L 20 48 L 20 62 L 20 76 L 20 90 L 20 104 L 34 20 L 34 34 L 34 48 L 34 62 L 34 76 L 34 90 L 34 104 L 48 20 L 48 34 L 48 48 L 48 76 L 48 90 L 48 104 L 62 34 L 62 62 L 62 90 L 62 104 L 76 20 L 76 34 L 76 48 L 76 62 L 76 76 L 76 90 L 76 104 L 90 20 L 90 34 L 90 62 L 90 76 L 90 90 L 90 104 L 104 20 L 104 34 L 104 48 L 104 62 L 104 76 L 104 90 L 104 104 L 118 20 L 118 34 L 118 48 L 118 62 L 118 76 L 118 90 L 132 20 L 132 34 L 132 48 L 132 76 L 132 90 L 132 104 L 146 20 L 146 34 L 146 48 L 146 62 L 146 76 L 146 90 L 146 104 L 160 20 L 160 34 L 160 48 L 160 62 L 160 76 L 160 104 L 174 20 L 174 48 L 174 62 L 174 76 L 174 90 L 188 34 L 188 48 L 188 76 L 188 90 L 188 104 L 202 34 L 202 48 L 202 62 L 202 90 L 216 20 L 216 34 L 216 48 L 216 62 L 216 76 L 216 90 L 216 104 L 230 20 L 230 34 L 230 48 L 230 62 L 230 76 L 230 90 L 230 104 L 244 34 L 244 48 L 244 76 L 244 90 L 244 104 L 258 20 L 258 48 L 258 62 L 258 76 L 258 104 L 272 20 L 272 34 L 272 48 L 272 62 L 272 76 L 272 90 L 272 104 L 286 48 L 286 62 L 286 76 L 286 90 L 286 104 L 300 76 L 314 20 L 314 104 L 328 20 L 328 34 L 328 62 L 328 76 L 328 90 L 328 104 L 342 20 L 342 34 L 342 48 L 342 62 L 342 104 L 356 20 L 356 34 L 356 48 L 356 62 L 356 76 L 370 20 L 370 34 L 370 48 L 370 62 L 370 76 L 370 90 L 370 104 L 384 20 L 384 34 L 384 48 L 384 62 L 384 76 L 398 20 L 398 34 L 398 48 L 398 62 L 398 104 L 412 48 L 412 62 L 412 90 L 412 104 L 426 34 L 426 48 L 426 104 L 440 20 L 440 62 L 454 20 L 454 48 L 482 90 L 496 20 L 552 34 L 580 76 L 594 48 L 608 34 L 608 48 L 608 62 L 608 76 L 622 20 L 622 34 L 622 48 L 622 62 L 622 104 L 636 48 L 650 34 L 650 62 L 664 20 L 664 62 L 692 20 L 692 76 L 734 76" keyTimes="0.000000;0.005348;0.010695;0.016043;0.021390;0.026738;0.032086;0.037433;0.042781;0.048128;0.053476;0.058824;0.064171;0.069519;0.074866;0.080214;0.085561;0.090909;0.096257;0.101604;0.106952;0.112299;0.117647;0.122995;0.128342;0.133690;0.139037;0.144385;0.149733;0.155080;0.160428;0.165775;0.171123;0.176471;0.181818;0.187166;0.192513;0.197861;0.203209;0.208556;0.213904;0.219251;0.224599;0.229947;0.235294;0.240642;0.245989;0.251337;0.256684;0.262032;0.267380;0.272727;0.278075;0.283422;0.288770;0.294118;0.299465;0.304813;0.310160;0.315508;0.320856;0.326203;0.331551;0.336898;0.342246;0.347594;0.352941;0.358289;0.363636;0.368984;0.374332;0.379679;0.385027;0.390374;0.395722;0.401070;0.406417;0.411765;0.417112;0.422460;0.427807;0.433155;0.438503;0.443850;0.449198;0.454545;0.459893;0.465241;0.470588;0.475936;0.481283;0.486631;0.491979;0.497326;0.502674;0.508021;0.513369;0.518717;0.524064;0.529412;0.534759;0.540107;0.545455;0.550802;0.556150;0.561497;0.566845;0.572193;0.577540;0.582888;0.588235;0.593583;0.598930;0.604278;0.609626;0.614973;0.620321;0.625668;0.631016;0.636364;0.641711;0.647059;0.652406;0.657754;0.663102;0.668449;0.673797;0.679144;0.684492;0.689840;0.695187;0.700535;0.705882;0.711230;0.716578;0.721925;0.727273;0.732620;0.737968;0.743316;0.748663;0.754011;0.759358;0.764706;0.770053;0.775401;0.780749;0.786096;0.791444;0.796791;0.802139;0.807487;0.812834;0.818182;0.823529;0.828877;0.834225;0.839572;0.844920;0.850267;0.855615;0.860963;0.866310;0.871658;0.877005;0.882353;0.887701;0.893048;0.898396;0.903743;0.909091;0.914439;0.919786;0.925134;0.930481;0.935829;0.941176;0.946524;0.951872;0.957219;0.962567;0.967914;0.973262;0.978610;0.983957;0.989305;0.994652;1.000000" keyPoints="0.025575,0.144928;0.025575,0.246377;0.025575,0.347826;0.025575,0.449275;0.025575,0.550725;0.025575,0.652174;0.025575,0.753623;0.043478,0.144928;0.043478,0.246377;0.043478,0.347826;0.043478,0.449275;0.043478,0.550725;0.043478,0.652174;0.043478,0.753623;0.061381,0.144928;0.061381,0.246377;0.061381,0.347826;0.061381,0.550725;0.061381,0.652174;0.061381,0.753623;0.079284,0.246377;0.079284,0.449275;0.079284,0.652174;0.079284,0.753623;0.097187,0.144928;0.097187,0.246377;0.097187,0.347826;0.097187,0.449275;0.097187,0.550725;0.097187,0.652174;0.097187,0.753623;0.115090,0.144928;0.115090,0.246377;0.115090,0.449275;0.115090,0.550725;0.115090,0.652174;0.115090,0.753623;0.132992,0.144928;0.132992,0.246377;0.132992,0.347826;0.132992,0.449275;0.132992,0.550725;0.132992,0.652174;0.132992,0.753623;0.150895,0.144928;0.150895,0.246377;0.150895,0.347826;0.150895,0.449275;0.150895,0.550725;0.150895,0.652174;0.168798,0.144928;0.168798,0.246377;0.168798,0.347826;0.168798,0.550725;0.168798,0.652174;0.168798,0.753623;0.186701,0.144928;0.186701,0.246377;0.186701,0.347826;0.186701,0.449275;0.186701,0.550725;0.186701,0.652174;0.186701,0.753623;0.204604,0.144928;0.204604,0.246377;0.204604,0.347826;0.204604,0.449275;0.204604,0.550725;0.204604,0.753623;0.222506,0.144928;0.222506,0.347826;0.222506,0.449275;0.222506,0.550725;0.222506,0.652174;0.240409,0.246377;0.240409,0.347826;0.240409,0.550725;0.240409,0.652174;0.240409,0.753623;0.258312,0.246377;0.258312,0.347826;0.258312,0.449275;0.258312,0.652174;0.276215,0.144928;0.276215,0.246377;0.276215,0.347826;0.276215,0.449275;0.276215,0.550725;0.276215,0.652174;0.276215,0.753623;0.294118,0.144928;0.294118,0.246377;0.294118,0.347826;0.294118,0.449275;0.294118,0.550725;0.294118,0.652174;0.294118,0.753623;0.312020,0.246377;0.312020,0.347826;0.312020,0.550725;0.312020,0.652174;0.312020,0.753623;0.329923,0.144928;0.329923,0.347826;0.329923,0.449275;0.329923,0.550725;0.329923,0.753623;0.347826,0.144928;0.347826,0.246377;0.347826,0.347826;0.347826,0.449275;0.347826,0.550725;0.347826,0.652174;0.347826,0.753623;0.365729,0.347826;0.365729,0.449275;0.365729,0.550725;0.365729,0.652174;0.365729,0.753623;0.383632,0.550725;0.401535,0.144928;0.401535,0.753623;0.419437,0.144928;0.419437,0.246377;0.419437,0.449275;0.419437,0.550725;0.419437,0.652174;0.419437,0.753623;0.437340,0.144928;0.437340,0.246377;0.437340,0.347826;0.437340,0.449275;0.437340,0.753623;0.455243,0.144928;0.455243,0.246377;0.455243,0.347826;0.455243,0.449275;0.455243,0.550725;0.473146,0.144928;0.473146,0.246377;0.473146,0.347826;0.473146,0.449275;0.473146,0.550725;0.473146,0.652174;0.473146,0.753623;0.491049,0.144928;0.491049,0.246377;0.491049,0.347826;0.491049,0.449275;0.491049,0.550725;0.508951,0.144928;0.508951,0.246377;0.508951,0.347826;0.508951,0.449275;0.508951,0.753623;0.526854,0.347826;0.526854,0.449275;0.526854,0.652174;0.526854,0.753623;0.544757,0.246377;0.544757,0.347826;0.544757,0.753623;0.562660,0.144928;0.562660,0.449275;0.580563,0.144928;0.580563,0.347826;0.616368,0.652174;0.634271,0.144928;0.705882,0.246377;0.741688,0.550725;0.759591,0.347826;0.777494,0.246377;0.777494,0.347826;0.777494,0.449275;0.777494,0.550725;0.795396,0.144928;0.795396,0.246377;0.795396,0.347826;0.795396,0.449275;0.795396,0.753623;0.813299,0.347826;0.831202,0.246377;0.831202,0.449275;0.849105,0.144928;0.849105,0.449275;0.884910,0.144928;0.884910,0.550725;0.938619,0.550725" calcMode="linear" />
+      <animateMotion dur="39.82s" repeatCount="indefinite" rotate="auto"
+        path="M 20 20 L 20 34 L 20 48 L 20 62 L 20 76 L 20 90 L 20 104 L 34 20 L 34 34 L 34 48 L 34 76 L 34 90 L 34 104 L 48 34 L 48 62 L 48 90 L 48 104 L 62 20 L 62 34 L 62 48 L 62 62 L 62 76 L 62 90 L 62 104 L 76 20 L 76 34 L 76 62 L 76 76 L 76 90 L 76 104 L 90 20 L 90 34 L 90 48 L 90 62 L 90 76 L 90 90 L 90 104 L 104 20 L 104 34 L 104 48 L 104 62 L 104 76 L 104 90 L 118 20 L 118 34 L 118 48 L 118 76 L 118 90 L 118 104 L 132 20 L 132 34 L 132 48 L 132 62 L 132 76 L 132 90 L 132 104 L 146 20 L 146 34 L 146 48 L 146 62 L 146 76 L 146 104 L 160 20 L 160 48 L 160 62 L 160 76 L 160 90 L 174 34 L 174 48 L 174 76 L 174 90 L 174 104 L 188 34 L 188 48 L 188 62 L 188 90 L 202 20 L 202 34 L 202 48 L 202 62 L 202 76 L 202 90 L 202 104 L 216 20 L 216 34 L 216 48 L 216 62 L 216 76 L 216 90 L 216 104 L 230 34 L 230 48 L 230 76 L 230 90 L 230 104 L 244 20 L 244 48 L 244 62 L 244 76 L 244 104 L 258 20 L 258 34 L 258 48 L 258 62 L 258 76 L 258 90 L 258 104 L 272 48 L 272 62 L 272 76 L 272 90 L 272 104 L 286 76 L 300 20 L 300 104 L 314 20 L 314 34 L 314 62 L 314 76 L 314 90 L 314 104 L 328 20 L 328 34 L 328 48 L 328 62 L 328 104 L 342 20 L 342 34 L 342 48 L 342 62 L 342 76 L 356 20 L 356 34 L 356 48 L 356 62 L 356 76 L 356 90 L 356 104 L 370 20 L 370 34 L 370 48 L 370 62 L 370 76 L 384 20 L 384 34 L 384 48 L 384 62 L 384 104 L 398 48 L 398 62 L 398 90 L 398 104 L 412 34 L 412 48 L 412 104 L 426 20 L 426 62 L 440 20 L 440 48 L 468 90 L 482 20 L 538 34 L 566 76 L 580 48 L 594 34 L 594 48 L 594 62 L 594 76 L 608 20 L 608 34 L 608 48 L 608 62 L 608 104 L 622 48 L 636 34 L 636 62 L 650 20 L 650 62 L 678 20 L 678 76 L 720 76" keyTimes="0.000000;0.005556;0.011111;0.016667;0.022222;0.027778;0.033333;0.038889;0.044444;0.050000;0.055556;0.061111;0.066667;0.072222;0.077778;0.083333;0.088889;0.094444;0.100000;0.105556;0.111111;0.116667;0.122222;0.127778;0.133333;0.138889;0.144444;0.150000;0.155556;0.161111;0.166667;0.172222;0.177778;0.183333;0.188889;0.194444;0.200000;0.205556;0.211111;0.216667;0.222222;0.227778;0.233333;0.238889;0.244444;0.250000;0.255556;0.261111;0.266667;0.272222;0.277778;0.283333;0.288889;0.294444;0.300000;0.305556;0.311111;0.316667;0.322222;0.327778;0.333333;0.338889;0.344444;0.350000;0.355556;0.361111;0.366667;0.372222;0.377778;0.383333;0.388889;0.394444;0.400000;0.405556;0.411111;0.416667;0.422222;0.427778;0.433333;0.438889;0.444444;0.450000;0.455556;0.461111;0.466667;0.472222;0.477778;0.483333;0.488889;0.494444;0.500000;0.505556;0.511111;0.516667;0.522222;0.527778;0.533333;0.538889;0.544444;0.550000;0.555556;0.561111;0.566667;0.572222;0.577778;0.583333;0.588889;0.594444;0.600000;0.605556;0.611111;0.616667;0.622222;0.627778;0.633333;0.638889;0.644444;0.650000;0.655556;0.661111;0.666667;0.672222;0.677778;0.683333;0.688889;0.694444;0.700000;0.705556;0.711111;0.716667;0.722222;0.727778;0.733333;0.738889;0.744444;0.750000;0.755556;0.761111;0.766667;0.772222;0.777778;0.783333;0.788889;0.794444;0.800000;0.805556;0.811111;0.816667;0.822222;0.827778;0.833333;0.838889;0.844444;0.850000;0.855556;0.861111;0.866667;0.872222;0.877778;0.883333;0.888889;0.894444;0.900000;0.905556;0.911111;0.916667;0.922222;0.927778;0.933333;0.938889;0.944444;0.950000;0.955556;0.961111;0.966667;0.972222;0.977778;0.983333;0.988889;0.994444;1.000000" keyPoints="0.025575,0.144928;0.025575,0.246377;0.025575,0.347826;0.025575,0.449275;0.025575,0.550725;0.025575,0.652174;0.025575,0.753623;0.043478,0.144928;0.043478,0.246377;0.043478,0.347826;0.043478,0.550725;0.043478,0.652174;0.043478,0.753623;0.061381,0.246377;0.061381,0.449275;0.061381,0.652174;0.061381,0.753623;0.079284,0.144928;0.079284,0.246377;0.079284,0.347826;0.079284,0.449275;0.079284,0.550725;0.079284,0.652174;0.079284,0.753623;0.097187,0.144928;0.097187,0.246377;0.097187,0.449275;0.097187,0.550725;0.097187,0.652174;0.097187,0.753623;0.115090,0.144928;0.115090,0.246377;0.115090,0.347826;0.115090,0.449275;0.115090,0.550725;0.115090,0.652174;0.115090,0.753623;0.132992,0.144928;0.132992,0.246377;0.132992,0.347826;0.132992,0.449275;0.132992,0.550725;0.132992,0.652174;0.150895,0.144928;0.150895,0.246377;0.150895,0.347826;0.150895,0.550725;0.150895,0.652174;0.150895,0.753623;0.168798,0.144928;0.168798,0.246377;0.168798,0.347826;0.168798,0.449275;0.168798,0.550725;0.168798,0.652174;0.168798,0.753623;0.186701,0.144928;0.186701,0.246377;0.186701,0.347826;0.186701,0.449275;0.186701,0.550725;0.186701,0.753623;0.204604,0.144928;0.204604,0.347826;0.204604,0.449275;0.204604,0.550725;0.204604,0.652174;0.222506,0.246377;0.222506,0.347826;0.222506,0.550725;0.222506,0.652174;0.222506,0.753623;0.240409,0.246377;0.240409,0.347826;0.240409,0.449275;0.240409,0.652174;0.258312,0.144928;0.258312,0.246377;0.258312,0.347826;0.258312,0.449275;0.258312,0.550725;0.258312,0.652174;0.258312,0.753623;0.276215,0.144928;0.276215,0.246377;0.276215,0.347826;0.276215,0.449275;0.276215,0.550725;0.276215,0.652174;0.276215,0.753623;0.294118,0.246377;0.294118,0.347826;0.294118,0.550725;0.294118,0.652174;0.294118,0.753623;0.312020,0.144928;0.312020,0.347826;0.312020,0.449275;0.312020,0.550725;0.312020,0.753623;0.329923,0.144928;0.329923,0.246377;0.329923,0.347826;0.329923,0.449275;0.329923,0.550725;0.329923,0.652174;0.329923,0.753623;0.347826,0.347826;0.347826,0.449275;0.347826,0.550725;0.347826,0.652174;0.347826,0.753623;0.365729,0.550725;0.383632,0.144928;0.383632,0.753623;0.401535,0.144928;0.401535,0.246377;0.401535,0.449275;0.401535,0.550725;0.401535,0.652174;0.401535,0.753623;0.419437,0.144928;0.419437,0.246377;0.419437,0.347826;0.419437,0.449275;0.419437,0.753623;0.437340,0.144928;0.437340,0.246377;0.437340,0.347826;0.437340,0.449275;0.437340,0.550725;0.455243,0.144928;0.455243,0.246377;0.455243,0.347826;0.455243,0.449275;0.455243,0.550725;0.455243,0.652174;0.455243,0.753623;0.473146,0.144928;0.473146,0.246377;0.473146,0.347826;0.473146,0.449275;0.473146,0.550725;0.491049,0.144928;0.491049,0.246377;0.491049,0.347826;0.491049,0.449275;0.491049,0.753623;0.508951,0.347826;0.508951,0.449275;0.508951,0.652174;0.508951,0.753623;0.526854,0.246377;0.526854,0.347826;0.526854,0.753623;0.544757,0.144928;0.544757,0.449275;0.562660,0.144928;0.562660,0.347826;0.598465,0.652174;0.616368,0.144928;0.687980,0.246377;0.723785,0.550725;0.741688,0.347826;0.759591,0.246377;0.759591,0.347826;0.759591,0.449275;0.759591,0.550725;0.777494,0.144928;0.777494,0.246377;0.777494,0.347826;0.777494,0.449275;0.777494,0.753623;0.795396,0.347826;0.813299,0.246377;0.813299,0.449275;0.831202,0.144928;0.831202,0.449275;0.867008,0.144928;0.867008,0.550725;0.920716,0.550725" calcMode="linear" />
     </circle>
 
     <!-- Mouth wedge (chomp effect) -->
     <path d="M0 0 L7 -3.8500000000000005 A7 7 0 1 1 7 3.8500000000000005 Z" fill="#0d1117">
       <animateTransform attributeName="transform" type="scale" values="1;0.15;1" dur="0.28s" repeatCount="indefinite" />
-      <animateMotion dur="41.36s" repeatCount="indefinite" rotate="auto"
-        path="M 20 20 L 20 34 L 20 48 L 20 62 L 20 76 L 20 90 L 20 104 L 34 20 L 34 34 L 34 48 L 34 62 L 34 76 L 34 90 L 34 104 L 48 20 L 48 34 L 48 48 L 48 76 L 48 90 L 48 104 L 62 34 L 62 62 L 62 90 L 62 104 L 76 20 L 76 34 L 76 48 L 76 62 L 76 76 L 76 90 L 76 104 L 90 20 L 90 34 L 90 62 L 90 76 L 90 90 L 90 104 L 104 20 L 104 34 L 104 48 L 104 62 L 104 76 L 104 90 L 104 104 L 118 20 L 118 34 L 118 48 L 118 62 L 118 76 L 118 90 L 132 20 L 132 34 L 132 48 L 132 76 L 132 90 L 132 104 L 146 20 L 146 34 L 146 48 L 146 62 L 146 76 L 146 90 L 146 104 L 160 20 L 160 34 L 160 48 L 160 62 L 160 76 L 160 104 L 174 20 L 174 48 L 174 62 L 174 76 L 174 90 L 188 34 L 188 48 L 188 76 L 188 90 L 188 104 L 202 34 L 202 48 L 202 62 L 202 90 L 216 20 L 216 34 L 216 48 L 216 62 L 216 76 L 216 90 L 216 104 L 230 20 L 230 34 L 230 48 L 230 62 L 230 76 L 230 90 L 230 104 L 244 34 L 244 48 L 244 76 L 244 90 L 244 104 L 258 20 L 258 48 L 258 62 L 258 76 L 258 104 L 272 20 L 272 34 L 272 48 L 272 62 L 272 76 L 272 90 L 272 104 L 286 48 L 286 62 L 286 76 L 286 90 L 286 104 L 300 76 L 314 20 L 314 104 L 328 20 L 328 34 L 328 62 L 328 76 L 328 90 L 328 104 L 342 20 L 342 34 L 342 48 L 342 62 L 342 104 L 356 20 L 356 34 L 356 48 L 356 62 L 356 76 L 370 20 L 370 34 L 370 48 L 370 62 L 370 76 L 370 90 L 370 104 L 384 20 L 384 34 L 384 48 L 384 62 L 384 76 L 398 20 L 398 34 L 398 48 L 398 62 L 398 104 L 412 48 L 412 62 L 412 90 L 412 104 L 426 34 L 426 48 L 426 104 L 440 20 L 440 62 L 454 20 L 454 48 L 482 90 L 496 20 L 552 34 L 580 76 L 594 48 L 608 34 L 608 48 L 608 62 L 608 76 L 622 20 L 622 34 L 622 48 L 622 62 L 622 104 L 636 48 L 650 34 L 650 62 L 664 20 L 664 62 L 692 20 L 692 76 L 734 76" keyTimes="0.000000;0.005348;0.010695;0.016043;0.021390;0.026738;0.032086;0.037433;0.042781;0.048128;0.053476;0.058824;0.064171;0.069519;0.074866;0.080214;0.085561;0.090909;0.096257;0.101604;0.106952;0.112299;0.117647;0.122995;0.128342;0.133690;0.139037;0.144385;0.149733;0.155080;0.160428;0.165775;0.171123;0.176471;0.181818;0.187166;0.192513;0.197861;0.203209;0.208556;0.213904;0.219251;0.224599;0.229947;0.235294;0.240642;0.245989;0.251337;0.256684;0.262032;0.267380;0.272727;0.278075;0.283422;0.288770;0.294118;0.299465;0.304813;0.310160;0.315508;0.320856;0.326203;0.331551;0.336898;0.342246;0.347594;0.352941;0.358289;0.363636;0.368984;0.374332;0.379679;0.385027;0.390374;0.395722;0.401070;0.406417;0.411765;0.417112;0.422460;0.427807;0.433155;0.438503;0.443850;0.449198;0.454545;0.459893;0.465241;0.470588;0.475936;0.481283;0.486631;0.491979;0.497326;0.502674;0.508021;0.513369;0.518717;0.524064;0.529412;0.534759;0.540107;0.545455;0.550802;0.556150;0.561497;0.566845;0.572193;0.577540;0.582888;0.588235;0.593583;0.598930;0.604278;0.609626;0.614973;0.620321;0.625668;0.631016;0.636364;0.641711;0.647059;0.652406;0.657754;0.663102;0.668449;0.673797;0.679144;0.684492;0.689840;0.695187;0.700535;0.705882;0.711230;0.716578;0.721925;0.727273;0.732620;0.737968;0.743316;0.748663;0.754011;0.759358;0.764706;0.770053;0.775401;0.780749;0.786096;0.791444;0.796791;0.802139;0.807487;0.812834;0.818182;0.823529;0.828877;0.834225;0.839572;0.844920;0.850267;0.855615;0.860963;0.866310;0.871658;0.877005;0.882353;0.887701;0.893048;0.898396;0.903743;0.909091;0.914439;0.919786;0.925134;0.930481;0.935829;0.941176;0.946524;0.951872;0.957219;0.962567;0.967914;0.973262;0.978610;0.983957;0.989305;0.994652;1.000000" keyPoints="0.025575,0.144928;0.025575,0.246377;0.025575,0.347826;0.025575,0.449275;0.025575,0.550725;0.025575,0.652174;0.025575,0.753623;0.043478,0.144928;0.043478,0.246377;0.043478,0.347826;0.043478,0.449275;0.043478,0.550725;0.043478,0.652174;0.043478,0.753623;0.061381,0.144928;0.061381,0.246377;0.061381,0.347826;0.061381,0.550725;0.061381,0.652174;0.061381,0.753623;0.079284,0.246377;0.079284,0.449275;0.079284,0.652174;0.079284,0.753623;0.097187,0.144928;0.097187,0.246377;0.097187,0.347826;0.097187,0.449275;0.097187,0.550725;0.097187,0.652174;0.097187,0.753623;0.115090,0.144928;0.115090,0.246377;0.115090,0.449275;0.115090,0.550725;0.115090,0.652174;0.115090,0.753623;0.132992,0.144928;0.132992,0.246377;0.132992,0.347826;0.132992,0.449275;0.132992,0.550725;0.132992,0.652174;0.132992,0.753623;0.150895,0.144928;0.150895,0.246377;0.150895,0.347826;0.150895,0.449275;0.150895,0.550725;0.150895,0.652174;0.168798,0.144928;0.168798,0.246377;0.168798,0.347826;0.168798,0.550725;0.168798,0.652174;0.168798,0.753623;0.186701,0.144928;0.186701,0.246377;0.186701,0.347826;0.186701,0.449275;0.186701,0.550725;0.186701,0.652174;0.186701,0.753623;0.204604,0.144928;0.204604,0.246377;0.204604,0.347826;0.204604,0.449275;0.204604,0.550725;0.204604,0.753623;0.222506,0.144928;0.222506,0.347826;0.222506,0.449275;0.222506,0.550725;0.222506,0.652174;0.240409,0.246377;0.240409,0.347826;0.240409,0.550725;0.240409,0.652174;0.240409,0.753623;0.258312,0.246377;0.258312,0.347826;0.258312,0.449275;0.258312,0.652174;0.276215,0.144928;0.276215,0.246377;0.276215,0.347826;0.276215,0.449275;0.276215,0.550725;0.276215,0.652174;0.276215,0.753623;0.294118,0.144928;0.294118,0.246377;0.294118,0.347826;0.294118,0.449275;0.294118,0.550725;0.294118,0.652174;0.294118,0.753623;0.312020,0.246377;0.312020,0.347826;0.312020,0.550725;0.312020,0.652174;0.312020,0.753623;0.329923,0.144928;0.329923,0.347826;0.329923,0.449275;0.329923,0.550725;0.329923,0.753623;0.347826,0.144928;0.347826,0.246377;0.347826,0.347826;0.347826,0.449275;0.347826,0.550725;0.347826,0.652174;0.347826,0.753623;0.365729,0.347826;0.365729,0.449275;0.365729,0.550725;0.365729,0.652174;0.365729,0.753623;0.383632,0.550725;0.401535,0.144928;0.401535,0.753623;0.419437,0.144928;0.419437,0.246377;0.419437,0.449275;0.419437,0.550725;0.419437,0.652174;0.419437,0.753623;0.437340,0.144928;0.437340,0.246377;0.437340,0.347826;0.437340,0.449275;0.437340,0.753623;0.455243,0.144928;0.455243,0.246377;0.455243,0.347826;0.455243,0.449275;0.455243,0.550725;0.473146,0.144928;0.473146,0.246377;0.473146,0.347826;0.473146,0.449275;0.473146,0.550725;0.473146,0.652174;0.473146,0.753623;0.491049,0.144928;0.491049,0.246377;0.491049,0.347826;0.491049,0.449275;0.491049,0.550725;0.508951,0.144928;0.508951,0.246377;0.508951,0.347826;0.508951,0.449275;0.508951,0.753623;0.526854,0.347826;0.526854,0.449275;0.526854,0.652174;0.526854,0.753623;0.544757,0.246377;0.544757,0.347826;0.544757,0.753623;0.562660,0.144928;0.562660,0.449275;0.580563,0.144928;0.580563,0.347826;0.616368,0.652174;0.634271,0.144928;0.705882,0.246377;0.741688,0.550725;0.759591,0.347826;0.777494,0.246377;0.777494,0.347826;0.777494,0.449275;0.777494,0.550725;0.795396,0.144928;0.795396,0.246377;0.795396,0.347826;0.795396,0.449275;0.795396,0.753623;0.813299,0.347826;0.831202,0.246377;0.831202,0.449275;0.849105,0.144928;0.849105,0.449275;0.884910,0.144928;0.884910,0.550725;0.938619,0.550725" calcMode="linear" />
+      <animateMotion dur="39.82s" repeatCount="indefinite" rotate="auto"
+        path="M 20 20 L 20 34 L 20 48 L 20 62 L 20 76 L 20 90 L 20 104 L 34 20 L 34 34 L 34 48 L 34 76 L 34 90 L 34 104 L 48 34 L 48 62 L 48 90 L 48 104 L 62 20 L 62 34 L 62 48 L 62 62 L 62 76 L 62 90 L 62 104 L 76 20 L 76 34 L 76 62 L 76 76 L 76 90 L 76 104 L 90 20 L 90 34 L 90 48 L 90 62 L 90 76 L 90 90 L 90 104 L 104 20 L 104 34 L 104 48 L 104 62 L 104 76 L 104 90 L 118 20 L 118 34 L 118 48 L 118 76 L 118 90 L 118 104 L 132 20 L 132 34 L 132 48 L 132 62 L 132 76 L 132 90 L 132 104 L 146 20 L 146 34 L 146 48 L 146 62 L 146 76 L 146 104 L 160 20 L 160 48 L 160 62 L 160 76 L 160 90 L 174 34 L 174 48 L 174 76 L 174 90 L 174 104 L 188 34 L 188 48 L 188 62 L 188 90 L 202 20 L 202 34 L 202 48 L 202 62 L 202 76 L 202 90 L 202 104 L 216 20 L 216 34 L 216 48 L 216 62 L 216 76 L 216 90 L 216 104 L 230 34 L 230 48 L 230 76 L 230 90 L 230 104 L 244 20 L 244 48 L 244 62 L 244 76 L 244 104 L 258 20 L 258 34 L 258 48 L 258 62 L 258 76 L 258 90 L 258 104 L 272 48 L 272 62 L 272 76 L 272 90 L 272 104 L 286 76 L 300 20 L 300 104 L 314 20 L 314 34 L 314 62 L 314 76 L 314 90 L 314 104 L 328 20 L 328 34 L 328 48 L 328 62 L 328 104 L 342 20 L 342 34 L 342 48 L 342 62 L 342 76 L 356 20 L 356 34 L 356 48 L 356 62 L 356 76 L 356 90 L 356 104 L 370 20 L 370 34 L 370 48 L 370 62 L 370 76 L 384 20 L 384 34 L 384 48 L 384 62 L 384 104 L 398 48 L 398 62 L 398 90 L 398 104 L 412 34 L 412 48 L 412 104 L 426 20 L 426 62 L 440 20 L 440 48 L 468 90 L 482 20 L 538 34 L 566 76 L 580 48 L 594 34 L 594 48 L 594 62 L 594 76 L 608 20 L 608 34 L 608 48 L 608 62 L 608 104 L 622 48 L 636 34 L 636 62 L 650 20 L 650 62 L 678 20 L 678 76 L 720 76" keyTimes="0.000000;0.005556;0.011111;0.016667;0.022222;0.027778;0.033333;0.038889;0.044444;0.050000;0.055556;0.061111;0.066667;0.072222;0.077778;0.083333;0.088889;0.094444;0.100000;0.105556;0.111111;0.116667;0.122222;0.127778;0.133333;0.138889;0.144444;0.150000;0.155556;0.161111;0.166667;0.172222;0.177778;0.183333;0.188889;0.194444;0.200000;0.205556;0.211111;0.216667;0.222222;0.227778;0.233333;0.238889;0.244444;0.250000;0.255556;0.261111;0.266667;0.272222;0.277778;0.283333;0.288889;0.294444;0.300000;0.305556;0.311111;0.316667;0.322222;0.327778;0.333333;0.338889;0.344444;0.350000;0.355556;0.361111;0.366667;0.372222;0.377778;0.383333;0.388889;0.394444;0.400000;0.405556;0.411111;0.416667;0.422222;0.427778;0.433333;0.438889;0.444444;0.450000;0.455556;0.461111;0.466667;0.472222;0.477778;0.483333;0.488889;0.494444;0.500000;0.505556;0.511111;0.516667;0.522222;0.527778;0.533333;0.538889;0.544444;0.550000;0.555556;0.561111;0.566667;0.572222;0.577778;0.583333;0.588889;0.594444;0.600000;0.605556;0.611111;0.616667;0.622222;0.627778;0.633333;0.638889;0.644444;0.650000;0.655556;0.661111;0.666667;0.672222;0.677778;0.683333;0.688889;0.694444;0.700000;0.705556;0.711111;0.716667;0.722222;0.727778;0.733333;0.738889;0.744444;0.750000;0.755556;0.761111;0.766667;0.772222;0.777778;0.783333;0.788889;0.794444;0.800000;0.805556;0.811111;0.816667;0.822222;0.827778;0.833333;0.838889;0.844444;0.850000;0.855556;0.861111;0.866667;0.872222;0.877778;0.883333;0.888889;0.894444;0.900000;0.905556;0.911111;0.916667;0.922222;0.927778;0.933333;0.938889;0.944444;0.950000;0.955556;0.961111;0.966667;0.972222;0.977778;0.983333;0.988889;0.994444;1.000000" keyPoints="0.025575,0.144928;0.025575,0.246377;0.025575,0.347826;0.025575,0.449275;0.025575,0.550725;0.025575,0.652174;0.025575,0.753623;0.043478,0.144928;0.043478,0.246377;0.043478,0.347826;0.043478,0.550725;0.043478,0.652174;0.043478,0.753623;0.061381,0.246377;0.061381,0.449275;0.061381,0.652174;0.061381,0.753623;0.079284,0.144928;0.079284,0.246377;0.079284,0.347826;0.079284,0.449275;0.079284,0.550725;0.079284,0.652174;0.079284,0.753623;0.097187,0.144928;0.097187,0.246377;0.097187,0.449275;0.097187,0.550725;0.097187,0.652174;0.097187,0.753623;0.115090,0.144928;0.115090,0.246377;0.115090,0.347826;0.115090,0.449275;0.115090,0.550725;0.115090,0.652174;0.115090,0.753623;0.132992,0.144928;0.132992,0.246377;0.132992,0.347826;0.132992,0.449275;0.132992,0.550725;0.132992,0.652174;0.150895,0.144928;0.150895,0.246377;0.150895,0.347826;0.150895,0.550725;0.150895,0.652174;0.150895,0.753623;0.168798,0.144928;0.168798,0.246377;0.168798,0.347826;0.168798,0.449275;0.168798,0.550725;0.168798,0.652174;0.168798,0.753623;0.186701,0.144928;0.186701,0.246377;0.186701,0.347826;0.186701,0.449275;0.186701,0.550725;0.186701,0.753623;0.204604,0.144928;0.204604,0.347826;0.204604,0.449275;0.204604,0.550725;0.204604,0.652174;0.222506,0.246377;0.222506,0.347826;0.222506,0.550725;0.222506,0.652174;0.222506,0.753623;0.240409,0.246377;0.240409,0.347826;0.240409,0.449275;0.240409,0.652174;0.258312,0.144928;0.258312,0.246377;0.258312,0.347826;0.258312,0.449275;0.258312,0.550725;0.258312,0.652174;0.258312,0.753623;0.276215,0.144928;0.276215,0.246377;0.276215,0.347826;0.276215,0.449275;0.276215,0.550725;0.276215,0.652174;0.276215,0.753623;0.294118,0.246377;0.294118,0.347826;0.294118,0.550725;0.294118,0.652174;0.294118,0.753623;0.312020,0.144928;0.312020,0.347826;0.312020,0.449275;0.312020,0.550725;0.312020,0.753623;0.329923,0.144928;0.329923,0.246377;0.329923,0.347826;0.329923,0.449275;0.329923,0.550725;0.329923,0.652174;0.329923,0.753623;0.347826,0.347826;0.347826,0.449275;0.347826,0.550725;0.347826,0.652174;0.347826,0.753623;0.365729,0.550725;0.383632,0.144928;0.383632,0.753623;0.401535,0.144928;0.401535,0.246377;0.401535,0.449275;0.401535,0.550725;0.401535,0.652174;0.401535,0.753623;0.419437,0.144928;0.419437,0.246377;0.419437,0.347826;0.419437,0.449275;0.419437,0.753623;0.437340,0.144928;0.437340,0.246377;0.437340,0.347826;0.437340,0.449275;0.437340,0.550725;0.455243,0.144928;0.455243,0.246377;0.455243,0.347826;0.455243,0.449275;0.455243,0.550725;0.455243,0.652174;0.455243,0.753623;0.473146,0.144928;0.473146,0.246377;0.473146,0.347826;0.473146,0.449275;0.473146,0.550725;0.491049,0.144928;0.491049,0.246377;0.491049,0.347826;0.491049,0.449275;0.491049,0.753623;0.508951,0.347826;0.508951,0.449275;0.508951,0.652174;0.508951,0.753623;0.526854,0.246377;0.526854,0.347826;0.526854,0.753623;0.544757,0.144928;0.544757,0.449275;0.562660,0.144928;0.562660,0.347826;0.598465,0.652174;0.616368,0.144928;0.687980,0.246377;0.723785,0.550725;0.741688,0.347826;0.759591,0.246377;0.759591,0.347826;0.759591,0.449275;0.759591,0.550725;0.777494,0.144928;0.777494,0.246377;0.777494,0.347826;0.777494,0.449275;0.777494,0.753623;0.795396,0.347826;0.813299,0.246377;0.813299,0.449275;0.831202,0.144928;0.831202,0.449275;0.867008,0.144928;0.867008,0.550725;0.920716,0.550725" calcMode="linear" />
     </path>
   </g>
 </svg>
